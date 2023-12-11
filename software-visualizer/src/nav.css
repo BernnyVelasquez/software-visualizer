@@ -1,0 +1,14 @@
+.container{
+    outline: red dashed 3px;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.adjuster{
+    outline: blue dashed 3px;
+}
